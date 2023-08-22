@@ -1,1 +1,0 @@
-# Face_detection_opencv_android
